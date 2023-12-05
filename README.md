@@ -23,7 +23,7 @@ Oben links befinden sich die Werkzeug Buttons , dessen Funktionen in folgendem v
   Die Spieglung wird auf den nächsten freien Layer gespeichert.
 
 - Translations Werkzeug
-- Dieses Werzeug erzeug nach Wahl von zwei Punkten auf der Kreisscheibe, über der Maus, den passenden svektor und transliert den ausgewählten Layer um diese Richtung.
+- Dieses Werzeug erzeug nach Wahl von zwei Punkten auf der Kreisscheibe, über der Maus, den entsprechenden Vektor und transliert den ausgewählten Layer um diese Richtung.
   Die Transaltion wird auf den nächsten Layer gespeichert.
 
 - Rotations Werkzeug ( kein Button erscheint an dieser Position)
@@ -36,13 +36,13 @@ Oben links befinden sich die Werkzeug Buttons , dessen Funktionen in folgendem v
 
 - Parkettierungs Werkzeug
   Bei Wahl dieses Werkzeuges müssen zuerst die Anzahl an Rekursionen ausgewählt werden. Dannach muss der gewünschte Layer ausgewählt werden.
-  Folgend wird eine Parkettierung der Kreischeibe bis zur Rekursionanzahl gestartet. Jede einzelze resultierende Figur wird auf seinen nächsten freien layer      gespeichert (Bei Figuren mit vielen Geraden/Kanten kann bereits eine Rekursionanzahl von 4 oder mehr dauern!)
+  Folgend wird eine Parkettierung der Kreischeibe bis zur Rekursionanzahl gestartet. Jede einzelze resultierende Figur wird auf seinen nächsten freien layer gespeichert (Bei Figuren mit vielen Geraden/Kanten kann bereits eine Rekursionanzahl von 4 oder mehr dauern!)
 
 - Auswahl Werkzeug
  Bei Wahl dieses Werkzeuges muss ein Layer ausgewählt werden, folgend werden nur die Geraden/Strecke dargestellt welche sich auf diesem Layer befinden.
 
 - Screenshot Werkzeug
-  Bei Aushwal dieses Werkzeug wird direkt ein Bild der Kreisscheibe ohne Benutzeroberfläche im Verzeichnis Ornder hinterlegt.
+  Bei Auswahl dieses Werkzeug wird direkt ein Bild der Kreisscheibe ohne Benutzeroberfläche im Verzeichnis Ornder hinterlegt.
 
 - Lösch Werkzeug
 - Bei Wahl dieses Werkzeuges muss ein Layer ausgewählt werden, folgend werden die Geraden/Strecke entfernt welche sich auf diesen Layer befinden.
