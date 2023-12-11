@@ -1,8 +1,8 @@
 import cmath
 
 #change window size to your needs!
-screen_x = 800
-screen_y = 800
+screen_x = 1000
+screen_y = 1000
 
 class P_disc:
     """
@@ -51,7 +51,7 @@ class P_disc:
                 
         d = (abs(complex( cos(2 * alpha), sin(2 * alpha))
             - complex( cos(alpha), sin(alpha))))
-        if d <= 2*r: #early checks if cicles intersect
+        if d <= 2*r: #early check if cicles intersect
             intersections = []
             i = 1
             while i <= n: # calculated intersection with cicle_intersections() for each circlepair
@@ -574,7 +574,7 @@ def change_mode(n):
     global mode
     global shapelist
     #Check for double presses
-    if mode == 8: #delete button pressed twice: eradicte everything!
+    if mode == 8 and n==8: #delete button pressed twice: eradicte everything!
         del shapelist
         shapelist = []
         fill(255)
