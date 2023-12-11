@@ -1,8 +1,8 @@
 import cmath
 
 #change window size to your needs!
-screen_x = 1000
-screen_y = 1000
+screen_x = 800
+screen_y = 800
 
 class P_disc:
     """
